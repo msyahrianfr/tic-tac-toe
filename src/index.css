@@ -1,0 +1,32 @@
+* {
+  margin: 5px;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.board {
+  text-align: center;
+  display: flex;
+  width: 180px;
+  flex-wrap: wrap;
+}
+
+.status {
+  text-align: center;
+  font-size: 1rem;
+  font-family: Poppins;
+  font-weight: bold;
+}
